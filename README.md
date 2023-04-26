@@ -15,9 +15,33 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 I'm Tejas Kand
 </h1>
-<h3 align="center">A Boy trying to figure out stuff!!</h3>
+<h3 align="center">A guy trying to figure out stuff!!</h3>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
+---
 
 
+### :man_technologist:  &nbsp;About Me :
+
+
+- 🔭 I’m currently pursuing Bachelor's degree in **InfoTech**
+
+- 🌱 I’m currently learning **Web-App Pentesting, Binary-Exploitation & Reverse Engineering**
+
+- 📝 I regularly write articles on [Medium](https://medium.com/@tejas.kand.45)
+
+- 📫 How to reach me **tejas.kand.45@gmail.com**
+
+- ⚡ Fun fact: **I am always Hungry**
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tejas-kand&theme=dark)](https://git.io/streak-stats)
+
+---
+
+
+### ✍️ Blog Posts : 
